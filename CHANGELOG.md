@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.84.1 (2025-06-05)
+
+Full Changelog: [v1.84.0...v1.84.1](https://github.com/openai/openai-python/compare/v1.84.0...v1.84.1)
+
+### Bug Fixes
+
+* **responses:** support raw responses for `parse()` ([d459943](https://github.com/openai/openai-python/commit/d459943cc1c81cf9ce5c426edd3ef9112fdf6723))
+
 ## 1.84.0 (2025-06-03)
 
 Full Changelog: [v1.83.0...v1.84.0](https://github.com/openai/openai-python/compare/v1.83.0...v1.84.0)
